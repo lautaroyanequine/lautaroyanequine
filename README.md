@@ -61,10 +61,10 @@ Disfruto explorando soluciones creativas para desafíos técnicos y buscando for
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabyx708&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-        alt="Gabyx708" />
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=lautaroyanequine&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+        alt="lautaroyanequine" />
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=Gabyx708&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+        src="https://github-readme-stats.vercel.app/api?username=lautaroyanequine&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
         alt="adam-pw" />
 </div>
 ###
