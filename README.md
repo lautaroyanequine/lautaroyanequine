@@ -43,22 +43,17 @@ Disfruto explorando soluciones creativas para desafíos técnicos y buscando for
 <img src="./assets/icons/visualstudio-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/visualstudiocode-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/dotnet-color.svg" alt="C# Icon" width="40" height="40">
-<img src="./assets/icons/mysql-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/git-color.svg" alt="C# Icon" width="40" height="40">
-<img src="./assets/icons/microsoftsqlserver-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/virtualbox-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/postman-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/slack-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/trello-color.svg" alt="C# Icon" width="40" height="40">
 </p>
 
-
-<br>
-### Tecnologias y herramientas que eh utilizado:</h3><br>
+## Tecnologias y herramientas que eh utilizado:</h3>
 <p align="center">
 <img src="./assets/icons/microsoftsqlserver-color.svg" alt="C# Icon" width="40" height="40">
-</p>
-
+<img src="./assets/icons/mysql-color.svg" alt="C# Icon" width="40" height="40">
 
 ###  <p align="center">Mis Estadisticas:</p>
 <hr>
