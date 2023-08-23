@@ -13,7 +13,8 @@
 
 ###
 
-<h1 align="center">¡Hola 👋!</h1>
+<h1 align="center">¡Hola 👋,soy Lautaro!</h1>
+<h4>Estudiante de Ing.Informática</h4>
 
 ###
 
