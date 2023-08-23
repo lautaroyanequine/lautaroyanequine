@@ -50,7 +50,7 @@ Disfruto explorando soluciones creativas para desafíos técnicos y buscando for
 <img src="./assets/icons/trello-color.svg" alt="C# Icon" width="40" height="40">
 </p>
 
-## Tecnologias y herramientas que eh utilizado:</h3>
+## Base de datos:</h3>
 <p align="center">
 <img src="./assets/icons/microsoftsqlserver-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/mysql-color.svg" alt="C# Icon" width="40" height="40">
