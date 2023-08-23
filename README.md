@@ -30,14 +30,10 @@ Disfruto explorando soluciones creativas para desafíos técnicos y buscando for
 
 <br>
 
-## Lenguajes que eh utilizado:
+## Lenguajes:
 <p align="center">
 <img src="./assets/icons/csharp-original.svg" alt="C# Icon" width="40" height="40">
-<img src="./assets/icons/java-original.svg" alt="java Icon" width="40" height="40">
 <img src="./assets/icons/javascript-original.svg" alt="C# Icon" width="40" height="40">
-<img src="./assets/icons/python-original.svg" alt="C# Icon" width="40" height="40">
-<img src="./assets/icons/php-original.svg" alt="C# Icon" width="40" height="40">
-<img src="./assets/icons/c-original.svg" alt="C# Icon" width="40" height="40">
 </p>
 
 <br>
@@ -46,8 +42,6 @@ Disfruto explorando soluciones creativas para desafíos técnicos y buscando for
 <p align="center">
 <img src="./assets/icons/visualstudio-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/visualstudiocode-color.svg" alt="C# Icon" width="40" height="40">
-<img src="./assets/icons/docker-original.svg" alt="C# Icon" width="40" height="40">
-<img src="./assets/icons/react-original.svg" alt="java Icon" width="40" height="40">
 <img src="./assets/icons/dotnet-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/mysql-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/git-color.svg" alt="C# Icon" width="40" height="40">
@@ -62,6 +56,10 @@ Disfruto explorando soluciones creativas para desafíos técnicos y buscando for
 
 
 <br>
+## Base de datos: </h3>
+<p align="center">
+<img src="./assets/icons/microsoftsqlserver-color.svg" alt="C# Icon" width="40" height="40">
+</p>
 
 
 ###  <p align="center">Mis Estadisticas:</p>
@@ -82,9 +80,3 @@ Disfruto explorando soluciones creativas para desafíos técnicos y buscando for
 
 
 
-
-###
-
-<img src="https://raw.githubusercontent.com/lautaroyanequine/lautaroyanequine/output/snake.svg" alt="Snake animation" />
-
-###
