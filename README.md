@@ -25,57 +25,8 @@ Disfruto explorando soluciones creativas para desafíos técnicos y buscando for
 
 ###
 
-<h3 align="left">🛠 Idioma y herramientas</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-</div>
-
-
-## Algunas cosas sobre mí:
-
-- 💻 Estudiante de Ingeniería Informática.
-- 🖥️ Amante de la programación y la resolución de problemas.
-- 🏗️ Fascinado por la infraestructura y las herramientas de CI/CD.
-- 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
-
 ¡Bienvenido a mi repositorio de GitHub! Aquí encontrarás proyectos y exploraciones que reflejan mi pasión por el desarrollo y la tecnología. ¡No dudes en explorar y conectarte conmigo!
 
-
-</p>
-
-## Contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-coria-1b1918199/" target="blank"><img align="center"
-      src="./assets/images/linkedin.png"
-      alt="adam pithewan" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/gabix_708/" target="blank"><img align="center"
-      src="./assets/images/instagram.png"
-      alt="gaby" height="40" width="40" /></a>
-
-</p>
 
 <br>
 
