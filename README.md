@@ -48,15 +48,13 @@ Disfruto explorando soluciones creativas para desafíos técnicos y buscando for
 <img src="./assets/icons/microsoftsqlserver-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/virtualbox-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/postman-color.svg" alt="C# Icon" width="40" height="40">
-<img src="./assets/icons/vmware-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/slack-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/trello-color.svg" alt="C# Icon" width="40" height="40">
-<img src="./assets/icons/intellijidea-color.svg" alt="C# Icon" width="40" height="40">
 </p>
 
 
 <br>
-## Base de datos: </h3>
+### Tecnologias y herramientas que eh utilizado:</h3><br>
 <p align="center">
 <img src="./assets/icons/microsoftsqlserver-color.svg" alt="C# Icon" width="40" height="40">
 </p>
