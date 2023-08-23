@@ -55,18 +55,6 @@ Disfruto explorando soluciones creativas para desafíos técnicos y buscando for
 <img src="./assets/icons/microsoftsqlserver-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/mysql-color.svg" alt="C# Icon" width="40" height="40">
 
-###  <p align="center">Mis Estadisticas:</p>
-<hr>
-<br>
-
-<!-- Estadísticas de lenguajes más utilizados -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lautaroyanequine&layout=compact&bg_color=0d1117&text_color=ffffff)
-
-<!-- Estadísticas generales del perfil de GitHub -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lautaroyanequine&show_icons=true&bg_color=0d1117&text_color=ffffff)
-###
-
-<h3 align="left">🔥 Contribuciones:</h3>
 
 
 
