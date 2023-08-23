@@ -85,6 +85,6 @@ Disfruto explorando soluciones creativas para desafíos técnicos y buscando for
 
 ###
 
-<img src="https://raw.githubusercontent.com/juanlorenzoalba/juanlorenzoalba/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lautaroyanequine/lautaroyanequine/output/snake.svg" alt="Snake animation" />
 
 ###
