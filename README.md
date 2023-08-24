@@ -26,11 +26,12 @@
 
 ¡Bienvenido a mi repositorio de GitHub! Aquí encontrarás proyectos y exploraciones que reflejan mi pasión por el desarrollo y la tecnología. ¡No dudes en explorar y conectarte conmigo!
 
-🎓 Estudiante de Universidad Nacional Arturo Jauretche.
-💻 Interesado en Desarrollo de Software e Inteligencia Artificial
-🌱 Siempre aprendiendo y explorando nuevas tecnologías.
-🤝 Abierto a colaboraciones y proyectos interesantes.
-
+## Algunas cosas sobre mí:
+- 🎓 Estudiante de Universidad Nacional Arturo Jauretche
+- 💻 Interesado en Desarrollo de Software, Inteligencia Artificial y Seguridad Informática.
+- 🖥️ Amante de la programación y la resolución de problemas.
+- 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
+- 🤝 Abierto a colaboraciones y proyectos interesantes.
 <br>
 
 ## Lenguajes:
