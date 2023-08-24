@@ -38,6 +38,10 @@
 <p align="center">
 <img src="./assets/icons/csharp-original.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/javascript-original.svg" alt="C# Icon" width="40" height="40">
+<img src="./assets/icons/CSS3_logo_and_wordmark.svg.png" alt="C# Icon" width="40" height="40">
+<img src="./assets/icons/png-transparent-logo-html-html5.png" alt="C# Icon" width="40" height="40">
+
+
 </p>
 
 <br>
@@ -47,6 +51,7 @@
 <img src="./assets/icons/visualstudio-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/visualstudiocode-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/dotnet-color.svg" alt="C# Icon" width="40" height="40">
+<img src="./assets/icons/EFCore.png" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/git-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/virtualbox-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/postman-color.svg" alt="C# Icon" width="40" height="40">
@@ -58,6 +63,12 @@
 <p align="center">
 <img src="./assets/icons/microsoftsqlserver-color.svg" alt="C# Icon" width="40" height="40">
 <img src="./assets/icons/mysql-color.svg" alt="C# Icon" width="40" height="40">
+
+
+## Contacto:</h3>
+- <a href="https://www.linkedin.com/in/lautaro-mart%C3%ADn-yanequine-258631238/">💼 Conéctame en LinkedIn.</a>
+¡Gracias por visitar mi perfil! ¡Espero que encuentres interesantes mis proyectos y contribuciones!
+
 
 
 
