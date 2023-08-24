@@ -20,13 +20,16 @@
 
 ###
 
-<p align="left">Soy un apasionado de la informática y la tecnología, con un enfoque especial en el desarrollo de software. Mi experiencia se centra en el mundo de la programación, donde he trabajado con lenguajes y herramientas como C#, .NET, HTML5, CSS y JavaScript para crear aplicaciones y sitios web innovadores y funcionales<br><br>
-Disfruto explorando soluciones creativas para desafíos técnicos y buscando formas de mejorar la experiencia del usuario a través de interfaces atractivas y funcionales. He tenido la oportunidad de trabajar en proyectos diversos, desde aplicaciones de escritorio hasta aplicaciones web interactivas, lo que me ha brindado una perspectiva amplia y versátil. Mi objetivo es seguir creciendo como profesional de la informática, aprendiendo constantemente y aplicando mis conocimientos para crear soluciones tecnológicas impactantes</p>
+<p align="left">¡Bienvenido a mi perfil de GitHub! Soy un entusiasta de la informática y la tecnología, actualmente cursando mi grado en Ingeniería Informática. Mi pasión por explorar y crear soluciones innovadoras me impulsa a aprender constantemente y a colaborar en proyectos emocionantes.</p>
 
 ###
 
 ¡Bienvenido a mi repositorio de GitHub! Aquí encontrarás proyectos y exploraciones que reflejan mi pasión por el desarrollo y la tecnología. ¡No dudes en explorar y conectarte conmigo!
 
+🎓 Estudiante de Universidad Nacional Arturo Jauretche.
+💻 Interesado en Desarrollo de Software e Inteligencia Artificial
+🌱 Siempre aprendiendo y explorando nuevas tecnologías.
+🤝 Abierto a colaboraciones y proyectos interesantes.
 
 <br>
 
