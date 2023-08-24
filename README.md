@@ -67,6 +67,8 @@
 
 ## Contacto:</h3>
 - <a href="https://www.linkedin.com/in/lautaro-mart%C3%ADn-yanequine-258631238/">💼 Conéctame en LinkedIn.</a>
+
+## 
 ¡Gracias por visitar mi perfil! ¡Espero que encuentres interesantes mis proyectos y contribuciones!
 
 
